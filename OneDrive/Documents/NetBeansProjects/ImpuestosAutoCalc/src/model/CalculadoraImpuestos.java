@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
+//calcular impuestos
 public class CalculadoraImpuestos {
 
     private static final Properties tarifas = new Properties();
